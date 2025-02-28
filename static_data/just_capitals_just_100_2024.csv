@@ -1,0 +1,101 @@
+RANK,COMPANY,TICKER
+1,Hewlett Packard Enterprise Company,HPE
+2,Bank of America Corporation,BAC
+3,Accenture plc,ACN
+4,Intel Corp,INTC
+5,Citigroup Inc,C
+6,The Cigna Group,CI
+7,Ecolab Inc,ECL
+8,Elevance Health,ELV
+9,Advanced Micro Devices Inc,AMD
+10,Micron Technology Inc,MU
+11,American Express Company,AXP
+12,Avangrid Inc,AGR
+13,HP Inc,HPQ
+14,Truist Financial Corporation,TFC
+15,The Hartford Financial Services Group Inc,HIG
+16,JPMorgan Chase & Co,JPM
+17,Apple Inc,AAPL
+18,NVIDIA Corp,NVDA
+19,American Electric Power Company Inc,AEP
+20,Verizon Communications Inc,VZ
+21,The Bank of New York Mellon Corporation,BK
+22,Intuit Inc,INTU
+23,Salesforce.com Inc,CRM
+24,Starbucks Corporation,SBUX
+25,Merck & Co Inc,MRK
+26,PayPal Holdings Inc,PYPL
+27,Qualcomm Inc,QCOM
+28,Mastercard Inc,MA
+29,Illumina Inc,ILMN
+30,S&P Global Inc,SPGI
+31,T-Mobile US Inc,TMUS
+32,Lam Research Corp,LRCX
+33,Biogen Inc,BIIB
+34,Adobe Inc,ADBE
+35,Dow Inc,DOW
+36,Abbott Laboratories,ABT
+37,ServiceNow Inc,NOW
+38,Eversource Energy,ES
+39,Edison International,EIX
+40,Medtronic plc,MDT
+41,Union Pacific Corp,UNP
+42,Microsoft Corporation,MSFT
+43,General Motors Company,GM
+44,Equinix Inc,EQIX
+45,Fifth Third Bancorp,FITB
+46,Marathon Petroleum Corp,MPC
+47,Alphabet Inc,GOOG
+48,Synchrony Financial,SYF
+49,Hasbro Inc,HAS
+50,Agilent Technologies Inc,A
+51,Dayforce,DAY
+52,Jones Lang LaSalle Inc,JLL
+53,Moody’s Corp,MCO
+54,PNC Financial Services Group Inc,PNC
+55,Albemarle Corp,ALB
+56,Trane Technologies,TT
+57,Duke Energy Corporation,DUK
+58,Best Buy Co. Inc,BBY
+59,Huntington Bancshares Inc,HBAN
+60,International Business Machines Corporation,IBM
+61,Exelon Corp,EXC
+62,VMware Inc,VMX
+63,Capital One Financial Corporation,COF
+64,Owens Corning,OC
+65,Sempra,SRE
+66,Zillow Group Inc,Z
+67,The Walt Disney Company,DIS
+68,American Water Works Company Inc,AWK
+69,RTX Corp,RTX
+70,Organon & Co,OGN
+71,Baxter International Inc,BAX
+72,CF Industries Holdings Inc,CF
+73,MetLife Inc,MET
+74,Nasdaq Inc,NDAQ
+75,AT&T Inc,T
+76,Prudential Financial Inc,PRU
+77,NIKE Inc,NKE
+78,Gilead Sciences Inc,GILD
+79,The Procter & Gamble Company,PG
+80,Devon Energy Corp,DVN
+81,Northrop Grumman Corporation,NOC
+82,Lockheed Martin Corp,LMT
+83,Assurant Inc,AIZ
+84,Workday Inc,WDAY
+85,The Travelers Companies Inc,TRV
+86,Applied Materials Inc,AMAT
+87,Comerica Inc,CMA
+88,Constellation Energy Corporation,CEG
+89,ON Semiconductor Corp,ON
+90,Ally Financial Inc,ALLY
+91,Freeport-McMoRan Inc,FCX
+92,Principal Financial Group Inc,PFG
+93,Colgate-Palmolive Company,CL
+94,Cirrus Logic Inc,CRUS
+95,Chevron Corporation,CVX
+96,BlackRock Inc,BLK
+97,PepsiCo Inc,PEP
+98,Keysight Technologies Inc,KEYS
+99,Boston Scientific Corp,BSX
+100,Bristol-Myers Squibb Co,BMY

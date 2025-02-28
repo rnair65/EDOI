@@ -1,0 +1,101 @@
+RANK,NAME,% WOMEN,% MINORITIES,U.S. JOB OPENINGS,FULLY PAID MATERNAL LEAVE (DAYS),FULLY PAID PATERNAL LEAVE (DAYS),FULLY PAID ADOPTIVE LEAVE (DAYS),PAID DAYS OFF FOR VOLUNTEERING,
+1,Hilton,-,-,"2,460",60,20,20,No,View More details about Hilton
+2,Cisco Systems,31%,-,"1,800",151,65,65,Yes,View More details about Cisco Systems
+3,Nvidia,-,-,"1,750",110,60,60,Yes,View More details about Nvidia
+4,American Express,-,-,"2,954",100,100,100,Yes,View More details about American Express
+5,Synchrony,-,47%,310,60,60,60,Yes,View More details about Synchrony
+6,Wegmans Food Markets,54%,30%,"1,246",-,-,-,No,View More details about Wegmans Food Markets
+7,Accenture,-,-,500,40,40,40,No,View More details about Accenture
+8,Marriott International,54%,66%,"5,155",40,40,40,Yes,View More details about Marriott International
+9,Cadence,22%,58%,132,60,60,60,Yes,View More details about Cadence
+10,Comcast,31%,46%,"1,150",80,80,80,No,View More details about Comcast
+11,Pinnacle Financial Partners,65%,17%,208,20,20,20,No,View More details about Pinnacle Financial Partners
+12,Plante & Moran,50%,14%,101,60,30,30,Yes,View More details about Plante & Moran
+13,Deloitte,-,-,"3,794",120,80,80,Yes,View More details about Deloitte
+14,Power Home Remodeling,18%,24%,534,60,15,30,Yes,View More details about Power Home Remodeling
+15,Capital One Financial,51%,52%,"1,003",90,40,40,Yes,View More details about Capital One Financial
+16,Orrick,-,-,29,110,80,80,Yes,View More details about Orrick
+17,Slalom,43%,37%,219,80,40,40,No,View More details about Slalom
+18,Box,39%,61%,104,100,60,60,Yes,View More details about Box
+19,World Wide Technology,31%,24%,328,60,30,30,Yes,View More details about World Wide Technology
+20,Alston & Bird,52%,30%,36,90,90,90,Yes,View More details about Alston & Bird
+21,Nationwide,-,-,500,40,40,40,Yes,View More details about Nationwide
+22,PricewaterhouseCoopers,47%,-,"1,844",105,60,90,Yes,View More details about PricewaterhouseCoopers
+23,Intuit,51%,19%,846,80,80,80,Yes,View More details about Intuit
+24,Camden Property Trust,41%,59%,43,-,-,-,No,View More details about Camden Property Trust
+25,Adobe,-,-,618,130,80,80,No,View More details about Adobe
+26,Rocket Companies,45%,33%,700,56,56,56,Yes,View More details about Rocket Companies
+27,Hewlett Packard Enterprise,27%,33%,300,130,130,130,Yes,View More details about Hewlett Packard Enterprise
+28,IHG Hotels & Resorts,49%,26%,864,40,40,40,Yes,View More details about IHG Hotels & Resorts
+29,Texas Health Resources,79%,50%,"1,207",15,15,15,Yes,View More details about Texas Health Resources
+30,Kimley-Horn,37%,24%,989,40,10,10,No,View More details about Kimley-Horn
+31,Edward Jones,62%,11%,653,80,10,80,Yes,View More details about Edward Jones
+32,Crowe,47%,27%,202,60,60,60,Yes,View More details about Crowe
+33,Bank of America,53%,50%,"3,545",80,80,80,Yes,View More details about Bank of America
+34,Baird,43%,11%,116,60,15,60,Yes,View More details about Baird
+35,Progressive,60%,40%,523,20,20,20,No,View More details about Progressive
+36,MetLife,-,-,609,40,40,40,Yes,View More details about MetLife
+37,Navy Federal Credit Union,66%,45%,101,80,40,40,Yes,View More details about Navy Federal Credit Union
+38,Atlassian,59%,46%,125,130,100,100,Yes,View More details about Atlassian
+39,Credit Acceptance,59%,56%,169,15,15,15,No,View More details about Credit Acceptance
+40,Cheesecake Factory,46%,72%,"2,766",-,-,-,No,View More details about Cheesecake Factory
+41,Bain & Co.,-,-,-,140,140,140,Yes,View More details about Bain & Co.
+42,Modern Technology Solutions,22%,18%,219,15,15,15,No,View More details about Modern Technology Solutions
+43,PulteGroup,40%,26%,447,50,10,10,Yes,View More details about PulteGroup
+44,RSM US,46%,25%,"3,282",60,60,60,Yes,View More details about RSM US
+45,Protiviti,45%,32%,50,50,50,50,No,View More details about Protiviti
+46,Workiva,41%,20%,74,60,60,60,Yes,View More details about Workiva
+47,SAP America,37%,39%,188,100,60,60,Yes,View More details about SAP America
+48,Aya Healthcare,73%,-,94,42,42,42,Yes,View More details about Aya Healthcare
+49,Visa,44%,21%,250,110,70,70,Yes,View More details about Visa
+50,Publicis Sapient,-,-,130,30,30,30,-,View More details about Publicis Sapient
+51,First American Financial,66%,34%,229,80,30,30,Yes,View More details about First American Financial
+52,Vizient,56%,31%,128,80,80,80,Yes,View More details about Vizient
+53,AbbVie,56%,37%,-,60,60,60,Yes,View More details about AbbVie
+54,Ryan,51%,28%,57,70,70,70,Yes,View More details about Ryan
+55,David Weekley Homes,-,-,123,60,10,10,Yes,View More details about David Weekley Homes
+56,Discover Financial Services,64%,48%,362,80,80,80,No,View More details about Discover Financial Services
+57,DHL Express U.S.,30%,63%,131,60,60,60,No,View More details about DHL Express U.S.
+58,Elevance Health,77%,48%,"3,603",30,30,30,Yes,View More details about Elevance Health
+59,The Breakers Palm Beach,45%,63%,89,50,50,20,Yes,View More details about The Breakers Palm Beach
+60,Sheetz,55%,27%,"1,642",84,10,10,Yes,View More details about Sheetz
+61,Robert Half,62%,32%,-,30,30,30,No,View More details about Robert Half
+62,Merck,51%,19%,"1,700",100,60,60,Yes,View More details about Merck
+63,Mastercard,-,-,746,80,80,80,Yes,View More details about Mastercard
+64,EY,-,-,"1,800",95,95,95,Yes,View More details about EY
+65,Target,-,-,"10,000",20,20,20,-,View More details about Target
+66,Ally Financial,49%,42%,300,60,60,60,Yes,View More details about Ally Financial
+67,NuStar Energy,19%,34%,24,50,20,50,Yes,View More details about NuStar Energy
+68,ServiceNow,-,-,"1,100",100,60,60,Yes,View More details about ServiceNow
+69,Veterans United Home Loans,-,-,150,35,5,35,No,View More details about Veterans United Home Loans
+70,Salesforce,40%,-,-,130,60,130,Yes,View More details about Salesforce
+71,Trek Bicycle,21%,19%,125,60,10,10,-,View More details about Trek Bicycle
+72,KPMG,47%,38%,654,60,60,60,Yes,View More details about KPMG
+73,Hyatt Hotels,53%,64%,"2,704",40,10,40,No,View More details about Hyatt Hotels
+74,Alight,67%,41%,244,40,40,40,Yes,View More details about Alight
+75,New American Funding,55%,42%,70,-,-,-,No,View More details about New American Funding
+76,Vertex Pharmaceuticals,53%,39%,"1,000",60,60,60,Yes,View More details about Vertex Pharmaceuticals
+77,Experian,-,-,"1,155",20,12,12,Yes,View More details about Experian
+78,Grainger,39%,37%,"7,990",60,20,20,No,View More details about Grainger
+79,Dow,29%,28%,750,80,80,80,Yes,View More details about Dow
+80,Hilcorp Energy,15%,19%,52,40,5,5,No,View More details about Hilcorp Energy
+81,Publix Super Markets,-,-,"5,826",60,-,-,No,View More details about Publix Super Markets
+82,Stryker,36%,28%,"1,149",60,30,30,Yes,View More details about Stryker
+83,Atlantic Health System,75%,44%,"1,811",30,30,30,No,View More details about Atlantic Health System
+84,Perkins Coie,57%,30%,35,140,84,140,Yes,View More details about Perkins Coie
+85,Panda Restaurant Group,-,-,"4,053",-,-,-,No,View More details about Panda Restaurant Group
+86,HP,33%,40%,765,100,60,60,Yes,View More details about HP
+87,CarMax,28%,-,"1,500",30,30,30,Yes,View More details about CarMax
+88,Jackson Healthcare,71%,30%,659,60,20,60,Yes,View More details about Jackson Healthcare
+89,Baptist Health South Florida,74%,74%,"1,204",10,9,10,No,View More details about Baptist Health South Florida
+90,PCL Construction,24%,34%,99,45,5,5,No,View More details about PCL Construction
+91,The Wonderful Company,39%,-,192,20,20,20,No,View More details about The Wonderful Company
+92,CrowdStrike,-,-,547,60,60,60,Yes,View More details about CrowdStrike
+93,Hilti,28%,23%,148,84,84,84,Yes,View More details about Hilti
+94,Delta Air Lines,-,-,223,84,14,14,No,View More details about Delta Air Lines
+95,Teleperformance,75%,38%,100,40,14,14,Yes,View More details about Teleperformance
+96,Wellstar Health System,80%,51%,"2,857",20,20,20,No,View More details about Wellstar Health System
+97,Walmart,-,-,"103,776",80,30,30,No,View More details about Walmart
+98,Allianz Life Insurance,50%,14%,110,30,30,30,Yes,View More details about Allianz Life Insurance
+99,Nugget Market,47%,40%,50,-,-,-,No,View More details about Nugget Market
+100,Scripps Health,75%,62%,462,110,60,60,No,View More details about Scripps Health
