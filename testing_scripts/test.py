@@ -12,11 +12,6 @@ file_name = "EDOIJan17Sample.csv"
 # Load the CSV file into a DataFrame
 df = pd.read_csv(file_name)
 
-# openai.api_key, 
-your_openai_api_key = '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'
-
-client = openai.OpenAI(api_key="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")  # UPDATED for OpenAI v1.0+
-
 
 ## Previous strategy to determine rank below:
 # # Replace single and double asterisks entries with null values
