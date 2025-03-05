@@ -1,0 +1,39 @@
+Traceback (most recent call last):
+  File "/Users/lakshyadhingra/Desktop/Python Apps/EDOI/main.py", line 23, in <module>
+    fortune_100_best_companies_to_work_for = esg_mission_alignment.adjust_fortune_100_best_companies_to_work_for()
+                                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/lakshyadhingra/Desktop/Python Apps/EDOI/esg_mission_alignment.py", line 23, in adjust_fortune_100_best_companies_to_work_for
+    most_recent_year = data_collection.find_fortune_100_best_companies_to_work_for()
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/lakshyadhingra/Desktop/Python Apps/EDOI/data_collection.py", line 79, in find_fortune_100_best_companies_to_work_for
+    rows_listed.click()
+  File "/Users/lakshyadhingra/Desktop/Python Apps/EDOI/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/webelement.py", line 119, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "/Users/lakshyadhingra/Desktop/Python Apps/EDOI/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/webelement.py", line 572, in _execute
+    return self._parent.execute(command, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/lakshyadhingra/Desktop/Python Apps/EDOI/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+  File "/Users/lakshyadhingra/Desktop/Python Apps/EDOI/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable
+  (Session info: chrome=133.0.6943.142)
+Stacktrace:
+0   chromedriver                        0x00000001030482d4 cxxbridge1$str$ptr + 2739836
+1   chromedriver                        0x0000000103040934 cxxbridge1$str$ptr + 2708700
+2   chromedriver                        0x0000000102ba1e04 cxxbridge1$string$len + 92964
+3   chromedriver                        0x0000000102be9d3c cxxbridge1$string$len + 387676
+4   chromedriver                        0x0000000102bdeaf0 cxxbridge1$string$len + 342032
+5   chromedriver                        0x0000000102bde57c cxxbridge1$string$len + 340636
+6   chromedriver                        0x0000000102c29e80 cxxbridge1$string$len + 650144
+7   chromedriver                        0x0000000102bdd060 cxxbridge1$string$len + 335232
+8   chromedriver                        0x0000000103010c38 cxxbridge1$str$ptr + 2512864
+9   chromedriver                        0x0000000103013f58 cxxbridge1$str$ptr + 2525952
+10  chromedriver                        0x0000000102ff6578 cxxbridge1$str$ptr + 2404640
+11  chromedriver                        0x0000000103014818 cxxbridge1$str$ptr + 2528192
+12  chromedriver                        0x0000000102fe6f2c cxxbridge1$str$ptr + 2341588
+13  chromedriver                        0x0000000103030a60 cxxbridge1$str$ptr + 2643464
+14  chromedriver                        0x0000000103030be8 cxxbridge1$str$ptr + 2643856
+15  chromedriver                        0x00000001030405a8 cxxbridge1$str$ptr + 2707792
+16  libsystem_pthread.dylib             0x000000019ab0c2e4 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000019ab070fc thread_start + 8
