@@ -61,6 +61,7 @@ for list_name, list_info in list_to_variable_mapping.items():
 # # reference_column
 reference_df = lists = next(iter(keys))
 merged_df = list_to_variable_mapping['newsweek_most_responsible']['df']
+merged_df.to_csv("2_20test.csv", index=False)
 print(merged_df)
 
 # merged_df = list_to_variable_mapping['newsweek_most_responsible']['df']
