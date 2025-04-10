@@ -161,9 +161,9 @@ desirability_columns_to_sum = [
 # Ensure numeric columns are properly converted before summing
 df['Desirability'] = df[desirability_columns_to_sum].apply(pd.to_numeric, errors="coerce").sum(axis=1)
 
-df['3/19/2025 Price'] = print(1) # Use stock price python
+df['3/19/2025 Price'] = print(1) # Use stock price python ---- ask about what date to use
 
-df['3/19/2024 Price'] = print(1) # Use stock price python
+df['3/19/2024 Price'] = print(1) # Use stock price python ---- ask about what date to use
 
 
 
